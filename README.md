@@ -1,13 +1,13 @@
 # Labs API
 
-Shared backend API for Penn Mobile and Penn Basics
+Shared backend API for Penn Mobile and Penn Basics.
 
-# TODO
+### Features
 
-- [ ] Static homepage
-- [ ] Dynamic homepage
-- [ ] Facts
-- [ ] Events uploading
-- [ ] News uploading
-- [ ] Advice
-- [ ] User database
+- Static Homepage
+- Dynamic Homepage
+- Penn Facts
+- Events Uploading
+- News Uploading
+- Advice
+- User Accounts
