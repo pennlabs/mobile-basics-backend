@@ -1,4 +1,4 @@
-# Labs API
+# Mobile-Basics Backend
 
 Shared backend API for Penn Mobile and Penn Basics.
 
