@@ -1,1 +1,3 @@
-["dining", "studyRoomBooking", "laundry", "advice", "facts", "news"]
+{
+  "options": ["dining", "studyRoomBooking", "laundry", "advice", "facts", "news"]
+}

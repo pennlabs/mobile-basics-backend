@@ -9,7 +9,7 @@ fs.readFile("cell_options.json", (err, data) => {
   if (err) {
     console.log('Error collecting data from JSON file.');
   } else {
-    cellOptions = JSON.parse(data);
+    cellOptions = JSON.parse(data).options;
   }
 });
 
